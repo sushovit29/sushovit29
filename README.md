@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Sushovit Razdan. I work as an app developer @ Honeywell
 - 👀 I’m interested in problem solving, computer programming, fitness and finance
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on web projects, start up discussionss and career/skill development
+- 🌱 I’m currently learning Angular and .NET Core
+- 💞️ I’m looking to collaborate on web projects, ML/AI modelling, start up discussionss and career/skill development
 - 📫 You can reach me by e-mail on sushovit29@outlook.com or DM on twitter/instagram @sushovit29
 
 <!---
